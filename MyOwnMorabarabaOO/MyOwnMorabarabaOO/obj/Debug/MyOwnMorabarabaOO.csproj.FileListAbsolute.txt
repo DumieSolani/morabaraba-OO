@@ -1,0 +1,7 @@
+C:\Users\g16m0301\source\repos\MyOwnMorabarabaOO\MyOwnMorabarabaOO\bin\Debug\MyOwnMorabarabaOO.exe.config
+C:\Users\g16m0301\source\repos\MyOwnMorabarabaOO\MyOwnMorabarabaOO\bin\Debug\MyOwnMorabarabaOO.exe
+C:\Users\g16m0301\source\repos\MyOwnMorabarabaOO\MyOwnMorabarabaOO\bin\Debug\MyOwnMorabarabaOO.pdb
+C:\Users\g16m0301\source\repos\MyOwnMorabarabaOO\MyOwnMorabarabaOO\obj\Debug\MyOwnMorabarabaOO.csprojResolveAssemblyReference.cache
+C:\Users\g16m0301\source\repos\MyOwnMorabarabaOO\MyOwnMorabarabaOO\obj\Debug\MyOwnMorabarabaOO.csproj.CoreCompileInputs.cache
+C:\Users\g16m0301\source\repos\MyOwnMorabarabaOO\MyOwnMorabarabaOO\obj\Debug\MyOwnMorabarabaOO.exe
+C:\Users\g16m0301\source\repos\MyOwnMorabarabaOO\MyOwnMorabarabaOO\obj\Debug\MyOwnMorabarabaOO.pdb
