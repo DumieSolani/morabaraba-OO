@@ -664,8 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\g16s2145\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\Dumisani\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -674,20 +673,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16S2145\\Desktop\\morabaraba\\morabaraba\\morabaraba.csproj",
+      "projectUniqueName": "C:\\Users\\Dumisani\\Desktop\\morabaraba\\morabaraba-OO\\morabaraba\\morabaraba.csproj",
       "projectName": "morabaraba",
-      "projectPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16S2145\\Desktop\\morabaraba\\morabaraba\\morabaraba.csproj",
-      "packagesPath": "C:\\Users\\g16s2145\\.nuget\\packages\\",
-      "outputPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16S2145\\Desktop\\morabaraba\\morabaraba\\obj\\",
+      "projectPath": "C:\\Users\\Dumisani\\Desktop\\morabaraba\\morabaraba-OO\\morabaraba\\morabaraba.csproj",
+      "packagesPath": "C:\\Users\\Dumisani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dumisani\\Desktop\\morabaraba\\morabaraba-OO\\morabaraba\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\g16s2145\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\Dumisani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

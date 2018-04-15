@@ -1,0 +1,16 @@
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\morabaraba.Test.deps.json
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\morabaraba.Test.runtimeconfig.json
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\morabaraba.Test.runtimeconfig.dev.json
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\morabaraba.Test.dll
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\morabaraba.Test.pdb
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\morabaraba.dll
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\bin\Debug\netcoreapp2.0\morabaraba.pdb
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\obj\Debug\netcoreapp2.0\morabaraba.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\obj\Debug\netcoreapp2.0\morabaraba.Test.AssemblyInfoInputs.cache
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\obj\Debug\netcoreapp2.0\morabaraba.Test.AssemblyInfo.cs
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\obj\Debug\netcoreapp2.0\morabaraba.Test.dll
+C:\Users\Dumisani\Desktop\morabaraba\morabaraba-OO\morabaraba.Test\obj\Debug\netcoreapp2.0\morabaraba.Test.pdb
